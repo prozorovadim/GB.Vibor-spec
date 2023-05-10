@@ -1,6 +1,6 @@
 list = []
-length = int(input())
-for j in range (length):
+dlina = int(input())
+for j in range (dlina):
     a=input()
     list.append(a)
 new = []
